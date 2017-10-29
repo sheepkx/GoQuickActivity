@@ -1,0 +1,28 @@
+so.ofo.labofo/so.ofo.labofo.activities.journey.CaptureActivity ofo扫一扫
+com.mobike.mobikeapp/com.mobike.mobikeapp.activity.riding.QRCodeScannerActivity 摩拜扫一扫
+com.coolapk.market/.view.photo.QRCodeActivity 酷安扫一扫
+com.smile.gifmaker/com.yxcorp.plugin.qrcode.QRCodeScanActivity 快手扫一扫
+com.sina.weibo/.qrcode.CaptureActivity 微博扫一扫
+com.UCMobile/com.uc.module.barcode.CaptureActivity UC浏览器扫一扫
+com.UCMobile/com.shenma.speech.SpeechActivity UC浏览器语音
+com.tencent.qqmusic/.recognize.RecognizeActivity QQ音乐听歌识曲
+com.ting.mp3.android/com.baidu.music.ui.songrecognition.activity.SongRecognitionActivity 百度音乐听歌识曲
+com.android.mediacenter/.ui.online.humsearch.HumSearchActivity 华为音乐听歌识曲
+com.netease.cloudmusic/.activity.IdentifyActivity 网易云听歌识曲
+com.sankuai.meituan/com.meituan.android.flight.business.homepage.TrafficHomePageActivity 美团机票火车票
+com.sankuai.meituan/com.meituan.android.hotel.reuse.homepage.HotelPoiListFrontActivity 美团酒店住宿
+com.sankuai.meituan/com.meituan.android.base.ui.CustomCaptureActivity 美团扫一扫
+com.sankuai.meituan/com.meituan.android.takeout.library.ui.TakeoutActivity 美团外卖
+com.taobao.taobao/com.etao.feimagesearch.FEISCaptureActivity 淘宝拍照识别
+com.taobao.taobao/com.taobao.taobao.scancode.gateway.activity.ScancodeGatewayActivity 淘宝扫一扫
+com.taobao.taobao/com.taobao.order.list.OrderListActivity 我的订单
+com.eg.android.AlipayGphone/com.alipay.mobile.onsitepay9.payer.OspTabHostActivity 支付宝付款
+com.eg.android.AlipayGphone/com.alipay.mobile.scan.as.main.MainCaptureActivity 支付宝扫一扫
+com.eg.android.AlipayGphone/com.alipay.mobile.payee.ui.PayeeQRActivity_ 支付宝收款
+com.eg.android.AlipayGphone/com.alipay.mobile.transferapp.ui.TransferHomeActivity_ 支付宝转账
+com.tencent.mm/com.tencent.mm.plugin.offline.ui.WalletOfflineCoinPurseUI 微信付款
+com.tencent.mm/com.tencent.mm.ui.LauncherUI;sleep 10;am start -n com.tencent.mm/.plugin.sns.ui.En_424b8e16 微信朋友圈
+com.tencent.mm/com.tencent.mm.ui.LauncherUI;sleep 10;am start -n com.tencent.mm/com.tencent.mm.plugin.scanner.ui.BaseScanUI 微信扫一扫
+com.tencent.mm/com.tencent.mm.ui.LauncherUI;sleep 10;am start -n com.tencent.mm/com.tencent.mm.plugin.collect.ui.CollectMainUI 微信收款
+com.tencent.mobileqq/com.tencent.biz.qrcode.activity.ScannerActivity QQ扫一扫
+com.tencent.mobileqq/com.tencent.biz.qrcode.activity.QRDisplayActivity QQ收款付款扫码
