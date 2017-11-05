@@ -1,4 +1,4 @@
-so.ofo.labofo,so.ofo.labofo.activities.journey.CaptureActivity,ofo扫一扫
+so.ofo.labofo,so.ofo.labofo.activities.journey.ScanQrActivity,ofo扫一扫
 com.mobike.mobikeapp,com.mobike.mobikeapp.activity.riding.QRCodeScannerActivity,摩拜扫一扫
 com.coolapk.market,.view.photo.QRCodeActivity,酷安扫一扫
 com.smile.gifmaker,com.yxcorp.plugin.qrcode.QRCodeScanActivity,快手扫一扫
